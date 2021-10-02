@@ -1,0 +1,4 @@
+#shaker
+#bale
+#zawawy
+#nayrouz
